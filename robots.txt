@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-tfklg8.icom.am/sitemap.xml
